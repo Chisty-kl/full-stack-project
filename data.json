@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "id": "7548a4879597",
+      "name": "viswa",
+      "email": "viswaanshuman@gmail.com",
+      "role": "farmer",
+      "salt": "943372503126",
+      "pw": "862acf79544213bd0262a84bc4f33a5f7e4c24294062a8ea866c42358cb29aac"
+    }
+  ],
+  "products": [],
+  "orders": []
+}
